@@ -4,10 +4,10 @@ import { UserList } from "./UserList";
 
 function Home() {
   return (
-    <div>
+    <>
       <Heading />
       <UserList />
-    </div>
+    </>
   );
 }
 
